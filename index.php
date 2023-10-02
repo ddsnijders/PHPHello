@@ -1,11 +1,11 @@
 <!DOCTYPE HTML>
 
-<head>
-
-</head>
+<title>
+    Hello, World!
+</title>
 
 <body>
-    <?php
-        echo "<h1>Hello, World!</h1>"
+    <?php 
+        echo "<h1>Hello, World!</h1>";
     ?>
 </body>
